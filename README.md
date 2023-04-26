@@ -117,7 +117,6 @@
 
 <p align="center">Spread the word of diversity ❤️ Be <a href="https://www.linkedin.com/company/lgbtech/" title="part of the change">part of the change</a> at your organization!</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <br>
 
