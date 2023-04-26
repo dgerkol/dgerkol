@@ -115,9 +115,11 @@
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
+<p align="center">Spread the word of diversity ❤️ Be <a href="https://www.linkedin.com/company/lgbtech/" title="part of the change">part of the change</a> at your organization!</p>
+
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Spread the word of diversity ❤️ Be <a href="https://www.linkedin.com/company/lgbtech/" title="part of the change">part of the change</a> at your organization!</p>
+<br>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
