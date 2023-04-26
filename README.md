@@ -1,76 +1,75 @@
-<h1 align="left" id="macropower-title">Pleased to meet you! I'm Dan Gerkol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="left">I am a DevOps Engineer, and an LGBTQ activist</h3>
+<h1 align="left" id="macropower-title">Hello there! I'm Dan Gerkol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3 align="left">I am a DevOps Engineer, and an LGBTQ activist :sparkles:</h3>
 
 
 
 
 - :office: &nbsp;I'm currently working at **[Tufin]**
 - :seedling: &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
-- :purple_heart: &nbsp;I like to volunteer for the **sake of doing good**
+- :heart_exclamation: &nbsp;I like to volunteer for the **sake of doing good**
 - :reminder_ribbon: &nbsp;**10+** years volunteering with **at-risk youth**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<b> I like to automate, cloud engineer and explore complicate tasks </b>
+<b> I like to automate, cloud engineer and explore complicate systems :light_bulb:</b>
 <br> 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I like to work with:
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./images/aws-2.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>AWS&nbsp;(Core)
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#dgerkol">
+        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#dgerkol">
+        <img src="./images/jenkins_logo.svg" width="48" height="48" alt="Jenkins" />
       </a>
-      <br>Go
+      <br>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#dgerkol">
+        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
       </a>
-      <br>Jsonnet
+      <br>Ansible
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#dgerkol">
+        <img src="./images/vmware.png" width="48" height="48" alt="VMWare" />
       </a>
-      <br>TypeScript
+      <br>VMWare
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <a href="#dgerkol">
+        <img src="./images/terraform.svg" width="48" height="48" alt="Terraform" />
       </a>
-      <br>JavaScript
+      <br>terraform
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#dgerkol" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#dgerkol">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#dgerkol">
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
@@ -78,55 +77,55 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#dgerkol" >
+        <img src="./images/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#dgerkol" >
+        <img src="./images/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="#dgerkol">
+        <img src="./images/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="#dgerkol">
         <img src="./images/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>RHEL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"> 
+      <a href="#dgerkol"> 
 		<img src="./images/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="#dgerkol">
         <img src="./images/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./images/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="Grafana" />
+      <a href="#dgerkol" >
+        <img src="./images/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      <a href="#dgerkol" >
+        <img src="./images/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#dgerkol" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
       </a>
       <br>Thanos
