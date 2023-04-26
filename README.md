@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
-        <img src="./images/jenkins_logo.svg" width="48" height="48" alt="Jenkins" />
+        <img src="./images/Jenkins_logo.svg" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
@@ -46,9 +46,9 @@
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
-        <img src="./images/vmware.png" width="48" height="48" alt="VMWare" />
+        <img src="./images/vmware.png" width="48" height="48" alt="VMware" />
       </a>
-      <br>VMWare
+      <br>VMware
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
@@ -58,21 +58,9 @@
     </td>
     <td align="center" width="96">
       <a href="#dgerkol" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./images/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#dgerkol">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#dgerkol">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
+      <br>Prometheus
     </td>
   </tr>
   <tr>
@@ -117,18 +105,6 @@
         <img src="./images/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#dgerkol" >
-        <img src="./images/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#dgerkol" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
     </td>
   </tr>
 </table>
