@@ -6,7 +6,7 @@
 
 - :office: &nbsp;I'm currently working at **[Tufin]**
 - :seedling: &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
-- :heart_exclamation: &nbsp;I like to volunteer for the **sake of doing good**
+- :heavy_heart_exclamation: &nbsp;I like to volunteer for the **sake of doing good**
 - :reminder_ribbon: &nbsp;**10+** years volunteering with **at-risk youth**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
