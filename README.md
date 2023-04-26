@@ -18,7 +18,7 @@
 <br> 
 > Tools, languages, and other things that I like to work with:
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
