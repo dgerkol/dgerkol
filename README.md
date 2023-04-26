@@ -1,12 +1,12 @@
-<h1 align="left" id="macropower-title">Hello there! I'm Dan Gerkol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="left">I am a DevOps Engineer, and an LGBTQ activist :sparkles:</h3>
+<h1 align="left" id="macropower-title">Hi there! I'm Dan Gerkol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3 align="left">I am a DevOps Engineer, and an LGBTQ activist :heavy_heart_exclamation:</h3>
 
 
 
 
 - :office: &nbsp;I'm currently working at **[Tufin]**
 - :seedling: &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
-- :heavy_heart_exclamation: &nbsp;I like to volunteer for the **sake of doing good**
+- :sparkles: &nbsp;I like to volunteer for the **sake of doing good**
 - :reminder_ribbon: &nbsp;**10+** years volunteering with **at-risk youth**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -14,7 +14,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<b> I like to automate, cloud engineer and explore complicate systems :light_bulb:</b>
+<b> I like to automate, cloud engineer and explore complex systems 💡</b>
 <br> 
 > Tools, languages, and other things that I like to work with:
 
@@ -24,7 +24,7 @@
       <a href="#macropower-tech">
         <img src="./images/aws-2.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>AWS&nbsp;(Core)
+      <br>AWS&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
