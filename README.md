@@ -27,16 +27,16 @@
       <br>AWS&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#dgerkol">
-        <img src="./images/Jenkins_logo.svg" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
       <a href="#dgerkol" >
         <img src="./images/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#dgerkol">
+        <img src="./images/Jenkins_logo.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
@@ -58,10 +58,10 @@
     </td>
     <td align="center" width="96">
       <a href="#dgerkol" >
-        <img src="./images/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./images/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Prometheus
-    </td>
+      <br>Grafana
+    </td
   </tr>
   <!-- Next row -->
   <tr>
@@ -71,17 +71,17 @@
       </a>
       <br>VMware
     </td>
-    <td align="center" width="96">
-      <a href="#dgerkol">
-        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
-      </a>
-      <br>Ansible
-    </td>
     <td align="center" width="96"> 
       <a href="#dgerkol" >
         <img src="./images/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#dgerkol">
+        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
     </td>
     <td align="center"  width="96">
       <a href="#dgerkol">
@@ -103,9 +103,9 @@
     </td>
     <td align="center" width="96">
       <a href="#dgerkol" >
-        <img src="./images/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./images/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>Grafana
+      <br>Prometheus
     </td>
   </tr>
 </table>
