@@ -44,17 +44,17 @@
       </a>
       <br>terraform
     </td>
-    <td align="center" width="96"> 
-      <a href="#dgerkol" >
-        <img src="./images/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
     <td align="center" width="96">
       <a href="#dgerkol">
-        <img src="./images/terraform.svg" width="48" height="48" alt="Terraform" />
+        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>terraform
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="#dgerkol">
+        <img src="./images/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
     </td>
     <td align="center" width="96">
       <a href="#dgerkol" >
@@ -85,9 +85,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#dgerkol">
-        <img src="./images/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./images/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>RHEL
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#dgerkol"> 
@@ -97,9 +97,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#dgerkol">
-        <img src="./images/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./images/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>MySQL
+      <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#dgerkol" >
