@@ -28,27 +28,27 @@
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
-        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#dgerkol">
         <img src="./images/Jenkins_logo.svg" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#dgerkol">
-        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
+      <a href="#dgerkol" >
+        <img src="./images/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Ansible
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
-        <img src="./images/vmware.png" width="48" height="48" alt="VMware" />
+        <img src="./images/terraform.svg" width="48" height="48" alt="Terraform" />
       </a>
-      <br>VMware
+      <br>terraform
+    </td>
+    <td align="center" width="96"> 
+      <a href="#dgerkol" >
+        <img src="./images/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
@@ -63,24 +63,25 @@
       <br>Prometheus
     </td>
   </tr>
+  <!-- Next row -->
   <tr>
+    <td align="center" width="96">
+      <a href="#dgerkol">
+        <img src="./images/vmware.png" width="48" height="48" alt="VMware" />
+      </a>
+      <br>VMware
+    </td>
+    <td align="center" width="96">
+      <a href="#dgerkol">
+        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
     <td align="center" width="96"> 
       <a href="#dgerkol" >
         <img src="./images/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#dgerkol" >
-        <img src="./images/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#dgerkol">
-        <img src="./images/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
     </td>
     <td align="center"  width="96">
       <a href="#dgerkol">
