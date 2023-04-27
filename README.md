@@ -4,17 +4,17 @@
 
 
 
-- :office: &nbsp;I'm currently working at **[Tufin]**
-- :seedling: &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
-- :sparkles: &nbsp;I like to volunteer for the **sake of doing good**
-- :reminder_ribbon: &nbsp;**10+** years volunteering with **at-risk youth**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🏢 &nbsp;I'm currently working at **[Tufin]**
+- 🌱 &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
+- 🎗️ &nbsp;I like to volunteer for the **sake of doing good**
+- ✨&nbsp;**10+** years volunteering with **at-risk youth**
+- 💻 &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Favorite Tech 💡</h2>
 
-<b> I like to automate, cloud engineer and explore complex systems 💡</b>
+<b> I like to automate, cloud engineer and explore complex systems </b>
 <br> 
 > Tools, languages, and other things that I like to work with:
 
@@ -27,10 +27,10 @@
       <br>AWS&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#dgerkol">
-        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#dgerkol" >
+        <img src="./images/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Python
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
@@ -40,30 +40,37 @@
     </td>
     <td align="center" width="96">
       <a href="#dgerkol">
-        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
+        <img src="./images/terraform.svg" width="48" height="48" alt="Terraform" />
       </a>
-      <br>Ansible
+      <br>terraform
     </td>
+    <td align="center" width="96">
+      <a href="#dgerkol">
+        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="#dgerkol">
+        <img src="./images/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center" width="96">
+      <a href="#dgerkol" >
+        <img src="./images/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td
+  </tr>
+  <!-- Next row -->
+  <tr>
     <td align="center" width="96">
       <a href="#dgerkol">
         <img src="./images/vmware.png" width="48" height="48" alt="VMware" />
       </a>
       <br>VMware
     </td>
-    <td align="center" width="96">
-      <a href="#dgerkol">
-        <img src="./images/terraform.svg" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>terraform
-    </td>
-    <td align="center" width="96">
-      <a href="#dgerkol" >
-        <img src="./images/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#dgerkol" >
         <img src="./images/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -71,22 +78,16 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#dgerkol" >
-        <img src="./images/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#dgerkol">
+        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
       </a>
-      <br>Kubernetes
+      <br>Ansible
     </td>
     <td align="center"  width="96">
       <a href="#dgerkol">
-        <img src="./images/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./images/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#dgerkol">
-        <img src="./images/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#dgerkol"> 
@@ -96,15 +97,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#dgerkol">
-        <img src="./images/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./images/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>MySQL
+      <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#dgerkol" >
-        <img src="./images/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./images/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>Grafana
+      <br>Prometheus
     </td>
   </tr>
 </table>
@@ -115,7 +116,7 @@
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
-<p align="center">Spread the word of diversity ❤️ Be <a href="https://www.linkedin.com/company/lgbtech/" title="part of the change">part of the change</a> at your organization!</p>
+<p align="center">💜 Spread the word of diversity ~ be <a href="https://www.linkedin.com/company/lgbtech/" title="part of the change">part of the change</a> at your organization!</p>
 
 </p>
 <br>
