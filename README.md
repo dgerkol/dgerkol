@@ -4,11 +4,11 @@
 
 
 
-- :office: &nbsp;I'm currently working at **[Tufin]**
-- :seedling: &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
-- :sparkles: &nbsp;I like to volunteer for the **sake of doing good**
-- :reminder_ribbon: &nbsp;**10+** years volunteering with **at-risk youth**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🏢 &nbsp;I'm currently working at **[Tufin]**
+- 🌱 &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
+- 🎗️ &nbsp;I like to volunteer for the **sake of doing good**
+- ✨ &nbsp;**10+** years volunteering with **at-risk youth**
+- 💻 &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
@@ -116,7 +116,7 @@
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
-<p align="center">❤️ Spread the word of diversity ~ Be <a href="https://www.linkedin.com/company/lgbtech/" title="part of the change">part of the change</a> at your organization!</p>
+<p align="center">💜 Spread the word of diversity ~ be <a href="https://www.linkedin.com/company/lgbtech/" title="part of the change">part of the change</a> at your organization!</p>
 
 </p>
 <br>
