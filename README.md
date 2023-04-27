@@ -7,14 +7,14 @@
 - 🏢 &nbsp;I'm currently working at **[Tufin]**
 - 🌱 &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
 - 🎗️ &nbsp;I like to volunteer for the **sake of doing good**
-- ✨ &nbsp;**10+** years volunteering with **at-risk youth**
+- ✨&nbsp;**10+** years volunteering with **at-risk youth**
 - 💻 &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Favorite Tech 💡</h2>
 
-<b> I like to automate, cloud engineer and explore complex systems 💡</b>
+<b> I like to automate, cloud engineer and explore complex systems </b>
 <br> 
 > Tools, languages, and other things that I like to work with:
 
