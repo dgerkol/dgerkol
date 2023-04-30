@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">Hi there! I'm Dan Gerkol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="left" id="macropower-title">Hey there! I'm <a href="https://www.linkedin.com/in/dan-gerkol" title="Dan Gerkol"> Dan Gerkol </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="left">I am a DevOps Engineer, and an LGBTQ activist :heavy_heart_exclamation:</h3>
 
 
@@ -6,8 +6,8 @@
 
 - 🏢 &nbsp;I'm currently working at **[Tufin]**
 - 🌱 &nbsp;Currently, I'm expanding my knowledge of **Kubernetes**
-- 🎗️ &nbsp;I like to volunteer for the **sake of doing good**
-- ✨&nbsp;**10+** years volunteering with **at-risk youth**
+- 🎗️  &nbsp; I like to volunteer for the **sake of doing good**
+- ✨ &nbsp;**10+** years volunteering with **at-risk youth**
 - 💻 &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
