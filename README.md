@@ -132,5 +132,5 @@
 
 <!-- links -->
 
-[Tufin]: https://www.tufin.com "Tufin Home"
+[XTEND]: https://www.xtend.me/ "XTEND Home"
 [linkedin]: https://www.linkedin.com/in/dan-gerkol "Dan Gerkol LinkedIn"
